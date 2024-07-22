@@ -1,0 +1,4 @@
+site_name: Grow Documentation & Blog
+site_url: https://grow.hms.cx
+theme:
+  name: material

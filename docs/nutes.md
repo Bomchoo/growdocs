@@ -6,20 +6,19 @@ icon: material/pill-multiple
 
 ## Nutrients and Soil Information
 
-- Soil - Fox Farms - Ocean Forest Potting Soil
+!!! info "Soil - Fox Farms - Ocean Forest Potting Soil"
 
-![Potting Soil](assets/images/soil.jpg)
+    ![Potting Soil](assets/images/soil.jpg)
 
-- Nutrients - Fox Farm (Big Bloom, Grow Big, Tiger Bloom)
+!!! info "Nutrients - Fox Farm (Big Bloom, Grow Big, Tiger Bloom)"
 
-![Nutrients](assets/images/nuties.jpg)
+    ![Nutrients](assets/images/nuties.jpg)
 
-- Water - Schnucks Purified Drinking Water
-    - **With a Ph of 6.5**
+!!! info "Water - Schnucks Purified Drinking Water"
+     Purified Drinking Water - **With a Ph of 6.5**
 
-## Other
+!!! info "PH Control Chem"
 
-- PH Control Chem
-    - **Acid for PH Down**
-    - **Base for PH Up**
-![PH Chems](assets/images/phstuff.jpg)
+    - ## Acid for PH Down / Base for PH Up
+    
+    ![PH Chems](assets/images/phstuff.jpg)

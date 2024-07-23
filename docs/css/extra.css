@@ -1,0 +1,37 @@
+.red-text {
+    color: red;
+}
+
+.yellow-text {
+    color: goldenrod;
+}
+
+.green-text {
+    color: green;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #ffffff;
+}
+
+/* Backgroud Image */
+body {
+    background-image: url('assets/background.png');
+    background-size: 1920px 850px; /* Ensure the image covers the entire background */
+    background-position: 50% 10%; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-blend-mode: lighten;
+}
+
+[data-md-color-scheme="slate"] {
+     --md-hue: 211; 
+     --md-default-bg-color:               rgb(2, 77, 8);
+    /* Accent color shades*/
+    --md-primary-fg-color:               rgb(119, 235, 123);
+    --md-accent-fg-color:                rgb(200, 219, 23);
+    --md-primary-bg-color:               rgb(35, 122, 9);
+    --md-footer-bg-color:                rgb(9, 170, 14);
+    --md-footer-fg-color:                hsla(0, 0%, 100%, 1);
+   }

@@ -15,8 +15,8 @@ theme:
     - navigation.footer
   palette:
     scheme: slate
-    primary: light green
-    accent: green
+    primary: custom
+    accent: custom
   font:
     text: Lato
   language: en
@@ -61,3 +61,5 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
   - glightbox
+extra_css:
+  - css/extra.css

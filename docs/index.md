@@ -3,30 +3,55 @@ icon: material/home
 ---
 
 # Welcome
-## Jaxxel's 4/20 Grow
 
-![Banner](assets/images/banner.png)
+## **Hello & Welcome**
 
-### Hello & Welcome
+!!! quote
 
-Welcome to Jaxxels 420 Grow!
+    Welcome to Jaxxel's 420 Grow!
 
-Hey there, fellow green thumbs and cannabis enthusiasts! I’m thrilled to welcome you to my blog, where I share my personal journey and experiences in growing cannabis for medical use. This space is all about cultivating not just plants, but knowledge, wellness, and a supportive community.
+    Hey there, fellow green thumbs and cannabis enthusiasts! I’m thrilled to welcome you to my blog, where I share my personal journey and experiences in growing cannabis for medical use. This space is all about cultivating not just plants, but knowledge, wellness, and a supportive community.
 
-My name is Jax, and like many of you, I’ve discovered the incredible benefits of cannabis for medical purposes. Through trial and error, late-night research marathons, and a whole lot of patience, I’ve learned a thing or two about nurturing these amazing plants. And now, I want to pass that wisdom onto you.
+    My name is Jax, and like many of you, I’ve discovered the incredible benefits of cannabis for medical purposes. Through trial and error, late-night research marathons, and a whole lot of patience, I’ve learned a thing or two about nurturing these amazing plants. And now, I want to pass that wisdom onto you.
 
-Here at Jaxxels 420 Grow, you’ll find a mix of detailed grow guides, honest reviews of products and strains, troubleshooting tips, and personal stories from my own cannabis cultivation adventure. Whether you're a seasoned grower or just starting out, I hope you'll find something here that sparks your interest and helps you on your own journey.
+    Here at Jaxxel's 420 Grow, you’ll find a mix of detailed grow guides, honest reviews of products and strains, troubleshooting tips, and personal stories from my own cannabis cultivation adventure. Whether you're a seasoned grower or just starting out, I hope you'll find something here that sparks your interest and helps you on your own journey.
 
-So grab a cup of your favorite herbal tea, settle in, and let’s grow together. Welcome to Jaxxels 420 Grow – where every leaf has a story, and every story is worth sharing.
+    So grab a cup of your favorite herbal tea, settle in, and let’s grow together. Welcome to Jaxxel's 420 Grow – where every leaf has a story, and every story is worth sharing.
 
-Stay green,
-Jax
+    Stay green,
+    Jax
+
+---
+
+!!! info "Quick Navigation Links"
+
+    Click the boxes below to Jump to our Latest Pages and Content!
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-cannabis:{ .lg .middle } __Purple Punch__
+
+    ---
+
+    Sit back, relax and prepare to chill with `Purple Punch`!
+
+    [:octicons-arrow-right-24: See Page](strains/Purple-Punch.md)
+
+-   :fontawesome-solid-cannabis:{ .lg .middle } __Mango Haze__
+
+    ---
+
+    Lift your spirits, and take to the clouds - with `Mango Haze`!
+
+    [:octicons-arrow-right-24: See Page](strains/Mango-Haze.md)
+
+</div>
 
 ---
 
 ### About the Author
 
-Hello, I’m J.C., and welcome to Jaxxels 420 Grow!
+Hello, I’m J.C., and welcome to Jaxxel's 420 Grow!
 
 A proud native of St. Louis, MO, I have been passionately involved in the world of medical cannabis for over 15 years. My journey began out of necessity, seeking alternative treatments for chronic illness and other debilitating conditions. Through the ups and downs, I’ve become a staunch advocate for the legalization and medical usage of cannabis, believing wholeheartedly in its power to provide relief and improve quality of life.
 
@@ -40,7 +65,7 @@ Thank you for joining me on this green journey. Whether you’re here to learn, 
 
 ### Disclaimer
 
-The content provided on Jaxxels 420 Grow is for informational and educational purposes only. We are not here to provide medical advice, nor do we recommend using cannabis for medical purposes without first consulting a qualified healthcare professional. 
+The content provided on Jaxxel's 420 Grow is for informational and educational purposes only. We are not here to provide medical advice, nor do we recommend using cannabis for medical purposes without first consulting a qualified healthcare professional. 
 
 Please note, I am not a doctor, nor am I qualified to give medical advice. The information shared on this blog is based on my personal experiences and research, and should not be taken as professional medical guidance.
 

@@ -1,3 +1,7 @@
+---
+icon: material/cannabis
+---
+
 # Purple Punch
 
 ## About Purple Punch

@@ -1,3 +1,7 @@
+---
+icon: material/pill-multiple
+---
+
 # Nutrients and Soil
 
 ## Nutrients and Soil Information

@@ -1,3 +1,7 @@
+---
+icon: material/cannabis
+---
+
 # Mango Haze
 
 ## About Mango Haze

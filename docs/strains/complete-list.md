@@ -1,3 +1,7 @@
+---
+icon: material/cannabis
+---
+
 # Complete Strain List
 
 ## The Strain List

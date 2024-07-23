@@ -1,3 +1,6 @@
+---
+icon: fontawesome/solid/tent
+---
 # Grow Tent Details
 
 ## Grow Tent Information

@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Welcome
 ## Jaxxel's 4/20 Grow
 

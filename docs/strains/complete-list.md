@@ -4,6 +4,8 @@ icon: material/cannabis
 
 # Complete Strain List
 
+|Badge with|custom class|.badge custom-class|
+
 ## The Strain List
 
 !!! quote "Our Strains Overview"

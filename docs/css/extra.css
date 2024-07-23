@@ -10,6 +10,14 @@
     color: green;
 }
 
+.badge.custom-class .title {
+    background-color: black;
+}
+
+.badge.custom-class .value {
+    background-color: green;
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {

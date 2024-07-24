@@ -21,7 +21,9 @@
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-  color: #ffffff;
+  color: #020202;
+  font-weight: bold;
+  font-style: italic;
 }
 
 /* Backgroud Image */
@@ -36,10 +38,20 @@ body {
 [data-md-color-scheme="slate"] {
      --md-hue: 211; 
      --md-default-bg-color:               rgb(2, 77, 8);
+     --md-default-fg-color:               hsl(78, 85%, 48%);
+     --md-default-fg-color--light:        hsla(0, 17%, 95%, 0.863);
+     --md-default-fg-color--lighter:      hsl(0, 15%, 94%);
+     --md-default-fg-color--lightest:     hsl(78, 85%, 48%);
+     --md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
+     --md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
     /* Accent color shades*/
-    --md-primary-fg-color:               rgb(119, 235, 123);
+    --md-primary-fg-color:               rgb(8, 8, 8);
     --md-accent-fg-color:                rgb(200, 219, 23);
     --md-primary-bg-color:               rgb(35, 122, 9);
     --md-footer-bg-color:                rgb(9, 170, 14);
     --md-footer-fg-color:                hsla(0, 0%, 100%, 1);
-   }
+    }
+
+.md-nav__link[for] {
+    color: hsl(78, 85%, 48%);
+    }

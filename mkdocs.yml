@@ -3,7 +3,7 @@ site_url: https://grow.hms.cx
 nav:
   - Home: 'index.md'
   - Grow Environment: 'grow-tent.md'
-  - Nurtrients & More: 'nutes.md'
+  - Nutrients & More: 'nutes.md'
   - Live Stream: 'watch-live.md'
   - Strains: strains/*
 

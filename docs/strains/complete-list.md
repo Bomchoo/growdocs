@@ -22,8 +22,9 @@ icon: material/cannabis
     |--------------------|---------|-------|-------|
     | **Mango Haze**         | Clone     | 🟪   | Limonene, Myrcene, Linalool   |
     | **Purple Punch**       | Grand Daddy Purple x Larry OG     | 🟪   | Limonene, Caryophyllene, Linalool   |
-    | **Special Queen #2**   | N/A     | 🟡   | N/A   |
+    | **Special Queen #2**   | Power Bud x Skunk     | 🟡   | 	Earthy, Fruity, Skunk (TBD)   |
     | **Critical Orange Punch** | N/A | 🟥   | N/A   |
+
 
 ---
 !!! success "Legend"

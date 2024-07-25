@@ -1,3 +1,4 @@
 mkdocs-material==9.5.29
 mkdocs-glightbox
 mkdocs-literate-nav
+mkdocs-badges

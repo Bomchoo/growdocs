@@ -69,5 +69,6 @@ markdown_extensions:
 plugins:
   - glightbox
   - literate-nav
+  - badges
 extra_css:
   - css/extra.css

@@ -4,7 +4,7 @@ icon: material/cannabis
 
 # Complete Strain List
 
-|Badge with|custom class|.badge custom-class|
+|Updated|07/24/24|.strainlist|
 
 ## The Strain List
 
@@ -20,10 +20,10 @@ icon: material/cannabis
 
     | Strain             | Lineage | S/I/H | Terps |
     |--------------------|---------|-------|-------|
-    | Mango Haze         | Clone     | 🟪   | Limonene, Myrcene, Linalool   |
-    | Purple Punch       | Grand Daddy Purple x Larry OG     | 🟪   | Limonene, Caryophyllene, Linalool   |
-    | Special Queen #2   | N/A     | 🟡   | N/A   |
-    | Critical Orange Punch | N/A | 🟥   | N/A   |
+    | **Mango Haze**         | Clone     | 🟪   | Limonene, Myrcene, Linalool   |
+    | **Purple Punch**       | Grand Daddy Purple x Larry OG     | 🟪   | Limonene, Caryophyllene, Linalool   |
+    | **Special Queen #2**   | N/A     | 🟡   | N/A   |
+    | **Critical Orange Punch** | N/A | 🟥   | N/A   |
 
 ---
 !!! success "Legend"

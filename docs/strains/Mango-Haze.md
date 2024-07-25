@@ -6,11 +6,14 @@ icon: material/cannabis
 
 ## About Mango Haze
 
+|Sativa|Dominant|.sativa|
+
 !!! info
 
     Mango Haze is a sativa marijuana strain made by crossing Northern Lights #5, Skunk, and Haze. Mango Haze produces uplifting and happy effects that will put you into a cerebral mood. This strain features a mango aroma and flavor that consumers love. Medical marijuana patients choose this strain to help relieve symptoms associated with depression.
 
 !!! info "Strain Highlights"
+
 
     | Category   | Details               |
     |------------|-----------------------|

@@ -17,12 +17,12 @@ icon: fontawesome/solid/tent
 
 ---
 
-## Humidity / Temps and Light Cycles
+### Humidity / Temps and Light Cycles
 
 !!! success "Humidity / Temp / Light Cycle Levels"
 
-    ## **Humidity** - Maintained Between 65% - 75% for Veg
+    ### **Humidity** - Maintained Between 65% - 75% for Veg
 
-    ## **Temperature** - Maintained at 65-75 Degrees F
+    ### **Temperature** - Maintained at 65-75 Degrees F
 
-    ## **Light Cycle** - 20 Hours On - 4 Off Until Flowering.
+    ### **Light Cycle** - 20 Hours On - 4 Off Until Flowering.

@@ -35,7 +35,7 @@ icon: material/home
 
     Sit back, relax and prepare to chill with `Purple Punch`!
 
-    [:octicons-arrow-right-24: See Page](strains/Purple-Punch.md)
+    [See Strain](strains/Purple-Punch.md){ .md-button .md-button--primary }
 
 -   :fontawesome-solid-cannabis:{ .lg .middle } __Mango Haze__
 
@@ -43,7 +43,7 @@ icon: material/home
 
     Lift your spirits, and take to the clouds - with `Mango Haze`!
 
-    [:octicons-arrow-right-24: See Page](strains/Mango-Haze.md)
+    [See Strain](strains/Mango-Haze.md){ .md-button .md-button--primary }
 
 </div>
 

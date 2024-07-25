@@ -22,4 +22,4 @@ icon: material/television
 
 !!! success "Watch Live Feed"
 
-    <iframe width="480" height="550" src="https://camtwo.hms.cx"></iframe>
+    <iframe width="1920" height="900" src="https://camone.hms.cx"></iframe>
